@@ -1,5 +1,7 @@
 # fsm
 
+![Go](https://github.com/hyeonjae/fsm/workflows/Go/badge.svg)
+
 ## Install
 
 ```
