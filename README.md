@@ -1,6 +1,8 @@
 # fsm
 
-![Go](https://github.com/hyeonjae/fsm/workflows/Go/badge.svg) [![GoDoc](https://godoc.org/github.com/hyeonjae/fsm?status.png)](https://godoc.org/github.com/hyeonjae/fsm)
+[![Go](https://github.com/hyeonjae/fsm/workflows/Go/badge.svg)](https://github.com/hyeonjae/fsm/workflows/Go/badge.svg) [![GoReport](https://goreportcard.com/badge/github.com/hyeonjae/fsm)](https://goreportcard.com/badge/github.com/hyeonjae/fsm) [![GoDoc](https://godoc.org/github.com/hyeonjae/fsm?status.png)](https://godoc.org/github.com/hyeonjae/fsm)
+
+
 
 ## Install
 
